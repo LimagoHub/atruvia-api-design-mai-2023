@@ -1,0 +1,19 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(å¯°õøÿÿÿÿ8ÍäŸ…1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ”ÎÎÿÿÿÿÿ8Í‡ğŒ…1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(öµ¥÷úÿÿÿÿ8Ü‡ğŒ…1
+]	java:S125&"<This block of commented-out lines of code should be removed.(‹««Êûÿÿÿÿ8Ûğ…1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8şçŸ…1
+\
+java:S1128":Remove this unused import 'java.util.concurrent.Callable'.(¾×¶îûÿÿÿÿ8ÿçŸ…1
+c
+java:S1128"ARemove this unused import 'java.util.concurrent.ExecutorService'.(æ÷–£ùÿÿÿÿ8Ûğ…1
+]
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8ÿçŸ…1
+Z
+java:S1128"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíıÿÿÿÿ8ÿçŸ…1
+W
+java:S1128
+":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8Ûğ…1
